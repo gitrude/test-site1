@@ -19,7 +19,7 @@ const MusicInfoComponent = () => {
                     <li>Length: 5:34</li>
                     <li>Artist: Ian Pooley</li>
                     <li>Track Name: Sorority</li>
-                    <li>Album: Relations</li>
+                    <li>Album: Relations 2</li>
                 </ul>
             </div>
 
