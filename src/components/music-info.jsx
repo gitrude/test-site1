@@ -8,7 +8,7 @@ const MusicInfoComponent = () => {
         <iframe width="560" height="315" src="https://www.youtube.com/embed/clpivcT5-dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <div>
 
-                <h2>CCE037 - Relations </h2> {/* Title of project */}
+                <h2 className="text-2xl font-bold underline"> CCE037 - Relations </h2> {/* Title of project */}
                 <p> Originally released in 1995, Ian Pooley's <i>Relations</i> gets a fresh pressing on Chiwax's Classic Edition series. 
                 </p> {/* About the track */}
             </div>
